@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+* We are small number of IT/CS/Edu experties group in SoCal area.
+
 <!--
 
 **Here are some ideas to get you started:**
