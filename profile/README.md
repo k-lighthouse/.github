@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* We are small number of IT/CS/Edu experties group in SoCal area.
+* We are a small IT/CS/Edu expertise group working on a stealth startup in the SoCal area.
 
 <!--
 
